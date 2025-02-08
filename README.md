@@ -6,13 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/@aditya_2726" target="blank"><img src="https://img.shields.io/twitter/follow/@aditya_2726?logo=twitter&style=for-the-badge" alt="@aditya_2726" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Java ,Javascript ,SQL , MERN**
+- 💬 Ask me about **Java ,Javascript ,SQL ,AWS ,Terraform ,Docker ,Kubernetes**
 
 - 📫 How to reach me **adityadayal111@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GbkmC97ij5wZ3b9YErIXZWr6_yEPtCF6/view?usp=drivesdk](https://drive.google.com/file/d/1GbkmC97ij5wZ3b9YErIXZWr6_yEPtCF6/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
